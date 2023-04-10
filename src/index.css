@@ -1,0 +1,25 @@
+body{
+  background: whitesmoke;
+  width:80vw;
+  margin:auto;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(31, 42, 47);
+}
+
+h1 ,h2, h3, h4, h5, h6{
+color:rgb(98, 135, 152)
+}
+
+.chris{
+  background:rgb(121, 199, 235);
+  width:60vw;
+  margin:auto;
+  padding:auto;
+  border-radius: 40px;
+}
+button{
+  background: darkcyan;
+  color:white;
+  border:none ;
+}
